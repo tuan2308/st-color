@@ -1,0 +1,10 @@
+/* color */
+.khwtht a,a:hover,a,.search-icon,.post-widget .rcp-title a:hover,.recent-title a:hover,.videos .recent-title a:hover,.slider .owl-prev:hover,.slider .owl-next:hover,.post-body h4,.post-body h5,.post-body h6,.tags a,.authorDetails h2 span,.comments-tabs-header h3:before,.list-label-widget-content span,.list-label-widget-content ul li:hover a,.list-label-widget-content ul li:hover a:before,.sidebar .FeaturedPost h2,.error_page .errornum,.firstcharacter,.simpleTab .tab-wrapper li a.activeTab,.contsho h3 span,.contsho a:hover,.hasSub:hover a:after,#menu ul li:hover>a,.list-label-widget-content ul li:hover a{color:#ffc107}
+/* border*/
+.searchform,.posts-title,.tagstitle,.sharetitle,.khwtht a:hover,.sidebar .FeaturedPost .widget-title,.post-readmore a,.menu ul li ul a:hover,.footer-column .widget-title,.sidebar .widget-title{border-color: #ffc107;}
+/* background */
+.searchsubmit,.authorSocial a:hover,#random-link:hover,.khwtht a:hover,#bttop,.pagenavi a, .pagenavi span,.posts-title h2{background:#ffc107}
+/* logo */
+#Header1_headerimg{opacity:0;}
+.logo-phu{background: url(http://lh5.googleusercontent.com/-TOFHR3dghF0/WTZvGiReMGI/AAAAAAAAF5I/0PhCdyU9JEwKVgN2FZqP47UvPLGAZDpzACK4B/s270/vang.png)}
+#st-colours .red:before{display: block}
