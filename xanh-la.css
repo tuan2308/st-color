@@ -3,7 +3,7 @@
 /* border*/
 .searchform,.posts-title,.tagstitle,.sharetitle,.khwtht a:hover,.sidebar .FeaturedPost .widget-title,.post-readmore a,.menu ul li ul a:hover,.footer-column .widget-title,.sidebar .widget-title{border-color: #8dc73f;}
 /* background */
-.comments .comment .comment-actions a:hover,.searchsubmit,.authorSocial a:hover,#random-link:hover,.khwtht a:hover,#bttop,.pagenavi a, .pagenavi span,.posts-title h2{background:#8dc73f}
+.postags a,.post-sharebtn:hover,.comments .comment .comment-actions a:hover,.searchsubmit,.authorSocial a:hover,#random-link:hover,.khwtht a:hover,#bttop,.pagenavi a, .pagenavi span,.posts-title h2{background:#8dc73f}
 /* logo */
 #Header1_headerimg{opacity:0;}
 .logo-phu{background: url(http://lh5.googleusercontent.com/-yWsnqRln0-w/WTZvGlM6IcI/AAAAAAAAF5E/8b9M183SGPAFDeN4nSXoI6FztlEQvZpZwCK4B/s270/xanh-la.png)}
