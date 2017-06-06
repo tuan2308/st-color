@@ -3,7 +3,7 @@
 /* border*/
 .searchform,.posts-title,.tagstitle,.sharetitle,.khwtht a:hover,.sidebar .FeaturedPost .widget-title,.post-readmore a,.menu ul li ul a:hover,.footer-column .widget-title,.sidebar .widget-title{border-color: #ee1c24;}
 /* background */
-.comments .comment .comment-actions a:hover,.searchsubmit,.authorSocial a:hover,#random-link:hover,.khwtht a:hover,#bttop,.pagenavi a, .pagenavi span,.posts-title h2{background:#ee1c24}
+.postags a,.post-sharebtn:hover,.comments .comment .comment-actions a:hover,.searchsubmit,.authorSocial a:hover,#random-link:hover,.khwtht a:hover,#bttop,.pagenavi a, .pagenavi span,.posts-title h2{background:#ee1c24}
 /* logo */
 #Header1_headerimg{opacity:0;}
 .logo-phu{background: url(http://lh5.googleusercontent.com/-Qd1xNuQzYDI/WTZvGq7Hj4I/AAAAAAAAF5M/Z0QHjXtfpZIoYXQVVZHmvog8OV5R3vVvACK4B/s270/do.png)}
