@@ -3,3 +3,4 @@
 #st-colours .purple:before{display:block}
 #st-colours .purple:after{animation:loader-rotate 1s linear infinite}#st-colours .bluee:after{animation:inherit}
 #header-inner img{display:none}#st-colours .bluee:before{display:none}
+body{display:none}
